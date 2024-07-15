@@ -20,7 +20,7 @@ https://fortnite-api.com/v2/creatorcode?name={creator_name}
 
 The script provides a simple GUI (built with Tkinter) where you can input a creator's name and fetch their creator code information.
 
-![Screenshot](screenshot.png)
+![Screenshot](capture.png)
 
 ## Notes
 
